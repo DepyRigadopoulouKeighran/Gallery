@@ -19,7 +19,8 @@ To view the Grid Gallery project, simply open the `index.html` file in your pref
 
 ## Screenshots
 
-[Include screenshots of your grid gallery here]
+![grid-gallery-image](https://github.com/DepyRigadopoulouKeighran/Grid-Gallery/assets/136313917/508b73ff-d0ce-4f67-91d5-92408692f39e)
+
 
 ## License
 
